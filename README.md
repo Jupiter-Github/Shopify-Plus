@@ -1,5 +1,7 @@
 ![Main page](https://github.com/Jupiter-Github/Shopify-Plus/assets/165056474/997489bc-893c-4fd7-ab5c-cf85e1e680a4)
+
 ![Product Detail Page](https://github.com/Jupiter-Github/Shopify-Plus/assets/165056474/31dbea03-cd93-4d98-957a-16f92ed87aa2)
+
 ![User Cart](https://github.com/Jupiter-Github/Shopify-Plus/assets/165056474/a610de99-689b-42ea-b785-0a1014561755)
 
 # Shopify Plus - Modern E-commerce Solution
